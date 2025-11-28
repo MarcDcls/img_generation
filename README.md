@@ -3,7 +3,7 @@
 First, create a uv venv with the necessary packages:
 ```
 uv venv
-uv pip install diffusers transformers accelerate torch
+uv pip install diffusers transformers accelerate torch peft
 ```
 
 Check the cuda version:

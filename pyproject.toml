@@ -1,5 +1,5 @@
 [tool.uv]
-python = ".venv/bin/python"
+python = "3.13.9"
 
 [tool.uv.dependencies]
 diffusers = ">=0.24.0"
